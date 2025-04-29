@@ -1,6 +1,7 @@
 package practice2;
 public class Fund {
     public static void main(String[] args) {
+        System.out.println("Starting Fund Transfer Application...");
         double balance = 10000.00;
 
         // Manually assigned values
