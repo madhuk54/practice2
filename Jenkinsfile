@@ -21,7 +21,7 @@ pipeline {
 
         stage('Run') {
             steps {
-                bat 'java  Fund'
+                bat 'java  Fund.java'
             }
         }
     }
